@@ -71,3 +71,82 @@ a:hover {
 
 /*ESCRIBE TU CÓDIGO DESDE AQUÍ*/
 
+header {
+  position: fixed;
+  background: white;
+  width: 100%;
+  top: 0;
+
+}
+
+.page {
+  font-weight: 700;
+  padding: 21px;
+  list-style: none;
+  display: inline-block;
+}
+
+.box-head {
+  padding: 10px 70px;
+  overflow: auto;
+}
+
+.logo {
+  width: 70px;
+  position: absolute;
+  top: 23px;
+  right: 150px;
+}
+
+
+#bg-home .container {
+  padding-top: 80px;
+  color: white;
+}
+.container .text-home {
+    font-size: 50px;
+}
+
+.container .btn-home {
+  padding: 8px;
+  border-radius: 5px;
+  color: white;
+  background-color: #00cc7a;
+  display: inline-block;
+  margin-top: 63px;
+}
+
+#service {
+  background-color: #f07575;
+  color: white;
+  text-align: center;
+  padding: 70px 7px;
+
+}
+
+.text-services {
+  font-size: 35px;
+  letter-spacing: 2px;
+
+}
+
+h4 {
+    font-size: 16px;
+
+}
+
+
+.text .imagen {
+  width: 200px;
+}
+
+
+
+footer{
+  text-align: center;
+  height: 70px;
+  background-color: grey;
+  color: whitesmoke;
+  padding-top: 7px;
+  position: fixed;
+}
